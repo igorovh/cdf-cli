@@ -4,11 +4,6 @@ Change Directory Favorites (`cdf`) is an interactive Bun CLI for jumping to save
   
 <img width="1100" height="578" alt="98kGDh" src="https://github.com/user-attachments/assets/b5eeb8e4-8b26-48a6-9c25-83036d61e4c6" />
 
-
-<p align="center">
-  <!-- GIF preview goes here. -->
-</p>
-
 ## Install
 
 ```bash
