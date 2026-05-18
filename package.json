@@ -35,6 +35,7 @@
     "install-global": "bun scripts/install-global.ts",
     "postinstall": "bun scripts/postinstall.ts",
     "pack:dry-run": "npm pack --dry-run",
+    "test": "bun test",
     "typecheck": "tsc --noEmit",
     "biome:check": "biome check",
     "biome:fix": "biome check --write"

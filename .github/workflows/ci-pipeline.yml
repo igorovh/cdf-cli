@@ -14,8 +14,8 @@ jobs:
         include:
           - name: Type Check
             command: bun run typecheck
-          # - name: Tests
-          #   command: bun test
+          - name: Tests
+            command: bun test
 
     steps:
       - name: Checkout code
