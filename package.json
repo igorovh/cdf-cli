@@ -28,8 +28,8 @@
     "LICENSE"
   ],
   "bin": {
-    "cdf-run": "./npm-dist/cdf-run.js",
-    "cdf-setup": "./npm-dist/cdf-setup.js"
+    "cdf-run": "npm-dist/cdf-run.js",
+    "cdf-setup": "npm-dist/cdf-setup.js"
   },
   "scripts": {
     "build": "bun scripts/build-npm.ts",
